@@ -91,7 +91,7 @@ public class gameplay extends JPanel implements KeyListener, ActionListener
 				
 			}
 			
-			//ALL THE UNDERNEATH BEGINS AT 40:00 MINS. GO OVER SO YOU UNDERSTAND.
+			
 			//This for loops iterates through the 2D array called "map" in the MapGenerator class.
 			A: for(int i = 0; i<map.map.length;i++)//This first loop accesses the array through the object (of the MapGenerator class) called "map". As seen on line "40".
 
